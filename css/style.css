@@ -2236,13 +2236,13 @@ textarea.form-control {
     font-weight: 400; }
 
 .ftco-section {
-  padding: 8em 0;
+  padding: 6em 0;
   position: relative;
   width: 100%;
   overflow-x: hidden; }
   @media (max-width: 575.98px) {
     .ftco-section {
-      padding: 4em 0; } }
+      padding: 6em 0; } }
 
 .ftco-no-pb {
   padding-bottom: 0 !important; }
@@ -2794,17 +2794,3 @@ textarea.form-control {
         .comment-list li .comment-body .reply:hover {
           color: #fff;
           background: black; }
-/* ======responsive code start=== */
-@media (max-width: 480px) {
-    .nav_logo {
-      width: 140px;
-      height: 40px;
-  }
-   
-}
-@media (max-width: 768px) {
-   .nav_logo {
-      width: 140px;
-      height: 40px;
-  }
-}
